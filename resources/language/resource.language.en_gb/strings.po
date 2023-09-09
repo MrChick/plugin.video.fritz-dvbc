@@ -1,0 +1,24 @@
+# Kodi language file
+# Addon id: plugin.video.fritz-dvbc
+# Addon Provider: MrChick
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgctxt "#30000"
+msgid "Device address (hostname or IP)"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Include SD channels"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Include HD channels"
+msgstr ""
+
+msgctxt "#30010"
+msgid "TV formats"
+msgstr ""

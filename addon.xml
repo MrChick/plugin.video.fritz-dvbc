@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+        id="plugin.video.fritz-dvbc"
+        name="FRITZ!DVB-C"
+        version="0.0.1"
+        provider-name="MrChick">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+        <import addon="script.module.m3u8" version="3.5.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">List and watch DVB-C streams supplied by your FRITZ! hardware</summary>
+        <description lang="en">Watch the live tv DVB-C streams supplied by your AVM FRITZ!Box/FRITZ!Repeater
+
+This project is in no way, shape or form affiliated with or endorsed by AVM!
+        </description>
+        <license>GPL-3.0-or-later</license>
+        <source>https://github.com/mrchick/plugin.video.fritz-dvbc</source>
+    </extension>
+</addon>

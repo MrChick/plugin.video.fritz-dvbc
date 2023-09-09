@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting type="text" label="30000" default="fritz.box" id="host"/>
+    <setting label="30010" type="lsep"/>
+    <setting type="bool" label="30001" default="true" id="tvsd"/>
+    <setting type="bool" label="30002" default="true" id="tvhd"/>
+</settings>
